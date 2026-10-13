@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Mening_maktabim/static/css/main.74db2f34.css",
+    "main.css": "/Mening_maktabim/static/css/main.fc07974a.css",
     "main.js": "/Mening_maktabim/static/js/main.cf995687.js",
     "index.html": "/Mening_maktabim/index.html",
-    "main.74db2f34.css.map": "/Mening_maktabim/static/css/main.74db2f34.css.map",
+    "main.fc07974a.css.map": "/Mening_maktabim/static/css/main.fc07974a.css.map",
     "main.cf995687.js.map": "/Mening_maktabim/static/js/main.cf995687.js.map"
   },
   "entrypoints": [
-    "static/css/main.74db2f34.css",
+    "static/css/main.fc07974a.css",
     "static/js/main.cf995687.js"
   ]
 }
